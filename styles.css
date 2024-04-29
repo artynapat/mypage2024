@@ -1,6 +1,6 @@
 table {
     border-collapse: collapse;
-    border: 2px solid rgb(140 140 140);
+    border: 2px solid rgb(255, 255, 255);
     font-family: sans-serif;
     font-size: 0.8rem;
     letter-spacing: 1px;
@@ -19,7 +19,7 @@ table {
   
   th,
   td {
-    border: 1px solid rgb(160 160 160);
+    border: 1px solid rgb(255, 255, 255);
     padding: 8px 10px;
   }
   
@@ -38,3 +38,22 @@ table {
   tfoot td {
     font-weight: bold;
   }
+img{
+    border-radius: 50%;
+}
+
+.head{
+  background-color: rgb(34, 109, 248);
+  text-align: center;
+
+}
+.image{
+  text-align: center;
+  
+}
+.contact{
+  text-align: center;
+}
+.work{
+  text-align: center;
+}
